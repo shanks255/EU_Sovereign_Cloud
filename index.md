@@ -17,6 +17,9 @@ Comprehensive overview of the cloud infrastructure architecture, including:
 ### [Security Framework](./security/SECURITY_FRAMEWORK.md)
 Detailed security controls, policies, and implementation guidelines for protecting sovereign data and infrastructure.
 
+### [Incident Response Plan](./security/INCIDENT_RESPONSE.md)
+Comprehensive incident response procedures, including detection, containment, eradication, and recovery processes for security incidents.
+
 ### [Compliance Mapping](./compliance/COMPLIANCE_MAPPING.md)
 Mapping of the architecture to EU regulatory requirements including GDPR, NIS2, and other relevant frameworks.
 
@@ -28,6 +31,9 @@ Multi-cloud federation capabilities and cross-border data management strategies.
 
 ### [Deployment Guide](./deployment/DEPLOYMENT_GUIDE.md)
 Step-by-step deployment instructions and operational procedures.
+
+### [Operations Runbooks](./operations/RUNBOOKS.md)
+Standardized operational procedures for infrastructure, security, database, network operations, and emergency response.
 
 ## 🎯 Key Features
 
