@@ -652,9 +652,11 @@ kubectl scale deployment cluster-autoscaler \
 
 ---
 
-## Appendix
+---
 
-### A. Common Commands Reference
+## 📚 Appendices
+
+### Appendix A: Common Commands Reference
 
 ```bash
 # System Information
@@ -685,7 +687,7 @@ tar -czf archive.tar.gz /path  # Create archive
 rsync -av source/ dest/    # Sync directories
 ```
 
-### B. Emergency Contact Information
+### Appendix B: Emergency Contact Information
 
 **24/7 Operations Center**: +33-1-XXXX-XXXX
 **Security Incident Hotline**: +33-1-XXXX-XXXX
@@ -693,7 +695,7 @@ rsync -av source/ dest/    # Sync directories
 **Security Team**: security@eu-cloud.local
 **Management**: management@eu-cloud.local
 
-### C. Related Documentation
+### Appendix C: Related Documentation
 
 - [Incident Response Plan](../security/INCIDENT_RESPONSE.md)
 - [Security Framework](../security/SECURITY_FRAMEWORK.md)

@@ -686,7 +686,9 @@ curl -X POST "https://threatintel.eu-cloud.local/api/iocs" \
 
 ---
 
-## Appendices
+---
+
+## 📚 Appendices
 
 ### Appendix A: Contact Information
 
