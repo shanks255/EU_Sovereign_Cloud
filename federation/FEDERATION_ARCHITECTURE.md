@@ -1,7 +1,7 @@
 # Federation & Multi-Tenancy Architecture
 
 ## Overview
-The Federation & Multi-Tenancy Architecture enables secure collaboration across EU member states while maintaining strong isolation between tenants. This design supports both organizational multi-tenancy and cross-border federation for a truly European sovereign cloud.
+The Federation & Multi-Tenancy Architecture enables secure collaboration across EU member states while maintaining strong isolation between tenants. This design supports both organizational multi-tenancy and cross-border federation for a truly European sovereign cloud..
 
 ## Federation Model
 
