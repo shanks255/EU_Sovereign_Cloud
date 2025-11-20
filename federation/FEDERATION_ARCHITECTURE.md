@@ -1,3 +1,7 @@
+[🏠 Home](../index.md) > [🌐 Federation](FEDERATION_ARCHITECTURE.md)
+
+---
+
 # Federation & Multi-Tenancy Architecture
 
 ## Overview

@@ -1,3 +1,7 @@
+[🏠 Home](../index.md) > [📐 Architecture](00_OVERVIEW.md)
+
+---
+
 # EU Sovereign Cloud - Architecture Overview
 
 ## Executive Summary

@@ -1,3 +1,7 @@
+[🏠 Home](../index.md) > [⚖️ Governance](DATA_GOVERNANCE.md)
+
+---
+
 # Data Governance & Sovereignty Framework
 
 ## Overview

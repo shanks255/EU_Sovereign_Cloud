@@ -1,3 +1,7 @@
+[🏠 Home](../index.md) > [🔒 Security](SECURITY_FRAMEWORK.md) > Incident Response Plan
+
+---
+
 # EU Sovereign Cloud - Incident Response Plan
 
 ## Table of Contents

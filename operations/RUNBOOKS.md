@@ -1,3 +1,7 @@
+[🏠 Home](../index.md) > [⚙️ Operations](RUNBOOKS.md)
+
+---
+
 # EU Sovereign Cloud - Operations Runbooks
 
 ## Table of Contents

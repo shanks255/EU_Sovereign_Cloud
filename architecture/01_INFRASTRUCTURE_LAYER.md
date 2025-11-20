@@ -1,3 +1,7 @@
+[🏠 Home](../index.md) > [📐 Architecture](00_OVERVIEW.md) > Infrastructure Layer
+
+---
+
 # Infrastructure Layer Design
 
 ## Overview

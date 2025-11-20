@@ -1,3 +1,7 @@
+[🏠 Home](../index.md) > [🚀 Deployment](DEPLOYMENT_GUIDE.md)
+
+---
+
 # Deployment & Operations Guide
 
 ## Overview

@@ -1,3 +1,7 @@
+[🏠 Home](../index.md) > [📐 Architecture](00_OVERVIEW.md) > Platform Services
+
+---
+
 # Platform Services Layer Design
 
 ## Overview

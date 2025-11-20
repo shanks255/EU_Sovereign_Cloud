@@ -1,3 +1,7 @@
+[🏠 Home](../index.md) > [🔒 Security](SECURITY_FRAMEWORK.md)
+
+---
+
 # Security Framework
 
 ## Overview
